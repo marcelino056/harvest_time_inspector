@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  issue_type: one
+  element_id: 1
+  comment: MyString
+  solved_at: 2020-12-13 18:09:39
+
+two:
+  issue_type: two
+  element_id: 1
+  comment: MyString
+  solved_at: 2020-12-13 18:09:39

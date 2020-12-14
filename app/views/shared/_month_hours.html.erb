@@ -1,0 +1,4 @@
+<%= javascript_include_tag "//www.google.com/jsapi", "chartkick" %>
+<h3>Dias Pendientes: <%= ((Time.now.end_of_month - Time.now) / 1.day).round %> dias</h3>
+<%= column_chart collection.active.map { |dev| [dev.name, dev.completed_average] },
+                  stacked: true %>

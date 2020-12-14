@@ -1,0 +1,5 @@
+<%= javascript_include_tag "//www.google.com/jsapi", "chartkick" %>
+<h3>Relacion de tardanzas</h3>
+<%= column_chart ContractorInvoice.all.group_by(&:developer)
+                                  .map { |dev, cis| [dev.name, dev.delay_invoices] },
+                  stacked: true %>

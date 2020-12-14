@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  project: one
+  start_date: 2020-12-13 12:22:34
+  end_date: 2020-12-13 12:22:34
+  to: 1
+  approved_at: 2020-12-13 12:22:34
+
+two:
+  project: two
+  start_date: 2020-12-13 12:22:34
+  end_date: 2020-12-13 12:22:34
+  to: 1
+  approved_at: 2020-12-13 12:22:34

@@ -1,0 +1,2 @@
+class Holyday < ApplicationRecord
+end

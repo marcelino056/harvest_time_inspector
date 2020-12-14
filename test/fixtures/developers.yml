@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  harvest_id: MyString
+  last_report: 2020-12-07 09:16:11
+  rate_per_hour: 1.5
+  contrat_type: 1
+
+two:
+  name: MyString
+  harvest_id: MyString
+  last_report: 2020-12-07 09:16:11
+  rate_per_hour: 1.5
+  contrat_type: 1

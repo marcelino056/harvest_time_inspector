@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  developer: one
+  billable: false
+  project: one
+  harvest_id: MyString
+  pivotal_id: MyString
+  approved: false
+  description_long: MyString
+  reported_at: 2020-12-07 13:08:45
+  last_modify: 2020-12-07 13:08:45
+  started_at: 2020-12-07 13:08:45
+  ended_time: 2020-12-07 13:08:45
+
+two:
+  developer: two
+  billable: false
+  project: two
+  harvest_id: MyString
+  pivotal_id: MyString
+  approved: false
+  description_long: MyString
+  reported_at: 2020-12-07 13:08:45
+  last_modify: 2020-12-07 13:08:45
+  started_at: 2020-12-07 13:08:45
+  ended_time: 2020-12-07 13:08:45

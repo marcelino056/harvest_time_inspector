@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  developer: one
+  total_hours: 1.5
+  cost: 1.5
+  submitted_at: 2020-12-13 11:31:54
+  approved_at: 2020-12-13 11:31:54
+
+two:
+  developer: two
+  total_hours: 1.5
+  cost: 1.5
+  submitted_at: 2020-12-13 11:31:54
+  approved_at: 2020-12-13 11:31:54

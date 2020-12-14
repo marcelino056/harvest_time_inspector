@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pivotal_id: MyString
+  name: MyString
+  delivere_date: 2020-12-07 12:37:53
+  finished_at: 2020-12-07 12:37:53
+
+two:
+  pivotal_id: MyString
+  name: MyString
+  delivere_date: 2020-12-07 12:37:53
+  finished_at: 2020-12-07 12:37:53
